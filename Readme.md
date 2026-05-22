@@ -8,18 +8,15 @@ The goal of this repository is to demonstrate a structured QA approach that comb
 
 # Areas Covered
 
-* Test Strategy Development
-* Test Plan Development
-* Software Risk Assessment
+* Checklist
 * Requirements Analysis
+* Risk Assessment
+* Test Cases Quality Review
+* Test Plan
+* Test Strategy
+* Test Summary Report 
+* Test Cases 
 * User Story Quality Assessment
-* Test Checklist Creation
-* Test Case Design
-* Equivalence Partitioning
-* Boundary Value Analysis
-* Pairwise Testing
-* Decision Tables
-* Test Data Generation
 
 ---
 
@@ -42,29 +39,41 @@ The focus is not on replacing QA judgment, but on improving efficiency and cover
 
 # Repository Structure
 
-## /test-strategy
+## /User_Story_Quality_Assessment
 
-Examples of test strategy and planning documents.
+Examples of user story and acceptance criteria analysis, including identification of ambiguities, missing details, and QA clarification questions.
 
-## /test-cases
+## /TestCases
 
-Examples of functional, negative, and edge-case test scenarios.
+Examples of functional, negative, and edge-case test scenarios created using structured QA techniques and AI-assisted workflows.
 
-## /risk-analysis
+## /Test_Summary_Report
 
-Risk assessment and prioritization examples.
+Examples of test execution summaries, testing results, identified issues, coverage information, and overall QA conclusions.
 
-## /pairwise-testing
+## /Test_Strategy
 
-Examples of pairwise testing techniques for optimized coverage.
+Examples of high-level testing strategy documents including scope, risks, testing levels, priorities, and QA approach.
 
-## /decision-tables
+## /Test_Plan
 
-Business logic validation using decision table methodology.
+Examples of test planning documents covering objectives, timelines, environments, scope, resources, and testing activities.
 
-## /test-data
+## /Test_Cases_Quality_Review
 
-Generated datasets and utility examples used for testing purposes.
+Examples of test case review and improvement processes focused on clarity, coverage quality, edge cases, and consistency.
+
+## /Risk_Assessment
+
+Risk analysis and prioritization examples for identifying critical business and technical areas requiring focused testing.
+
+## /Requirements_Analysis
+
+Examples of requirements analysis, gap identification, clarification questions, and QA-oriented validation of system requirements.
+
+## /Checklists
+
+Examples of structured QA checklists used for exploratory testing, regression validation, smoke testing, and release verification.
 
 ---
 
